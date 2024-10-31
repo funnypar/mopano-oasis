@@ -9,6 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@heroicons/react": "^2.1.5",
+    "date-fns": "^4.1.0",
     "mopano-oasis": "file:",
     "next": "15.0.1",
     "react": "19.0.0-rc-69d4b800-20241021",
